@@ -30,7 +30,7 @@ Ola’s research interests revolve around understanding how experts from diverse
 We would like to credit the following people who contributed to the project:
 * co-authors: Joe Bourne, Awais Rashid, Andrés Domínguez, Partha Das Choudhury, Marvin Ramokapane, Emily Godwin, Emily Johnstone, Alicia Cork, Dirk van der Linden, Sveta Milyaeva, Ben Shreeve, Nina H Di Cara, Natalie Zelenka, Huw Day, Euan DS Bennet, Vanessa Hanschke, Valerio Maggio, Charles Radclyffe, Roman Shkunov, Emma Tonkin, Zoë Turner, Kamilla Wells, Cian O’Donovan, Joshua R Moon
 * artists: Jonny Heath, Ian Keavney, Jordan Collver, Eve Pyra, Mary Hart, Liz Ormian, Aude Nasr, Wen Li, Oliver Dean
-* critical friends: Sam Young, *critical hype studies*, Peter Winter, Andrés Domínguez, *ESP editors*, Carsten Horn, Ruzanna Chitchyan
+* critical friends: Sam Young, *todo critical hype studies folx*, Peter Winter, Andrés Domínguez, *todo editors*, Carsten Horn, Ruzanna Chitchyan
 
 ### Acknowledgements
 We are grateful to our funders for their ongoing support, in particular:
